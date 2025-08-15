@@ -1,0 +1,14 @@
+body {
+  background-image: url("img/aa963f92edf1c5af8f9ff0317ab95fce466dd8ba.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+}
+body h1 {
+  color: white;
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */
