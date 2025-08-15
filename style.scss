@@ -1,18 +1,20 @@
-$main-color: #3498db;
-
 body {
-  
-  background-image: url("img/aa963f92edf1c5af8f9ff0317ab95fce466dd8ba.jpg"); // rasm yo‘lini o‘zingizga moslang
-  background-size: cover;   // butun ekran bo‘ylab
-  background-position: center; // markazga joylash
-  background-repeat: no-repeat; // takrorlanmasin
-  height: 100vh; // butun ekran balandligi
-  margin: 0;     // chetlarni olib tashlash
+  margin: 0;
+  height: 1200px;
+  width: 100vh;
+
+  /* Qora yarim shaffof qatlam + rasm */
+  background-image: 
+    url("Main\ page.png");
+
+  background-size: cover;   
+  background-position: center; 
+  background-repeat: no-repeat;
 
 
+}
 
-  h1 {
-    color: white;
-    font-size: 2rem;
-  }
+h1 {
+  color: white;
+  font-size: 2rem;
 }

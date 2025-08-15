@@ -1,12 +1,15 @@
 body {
-  background-image: url("img/aa963f92edf1c5af8f9ff0317ab95fce466dd8ba.jpg");
+  margin: 0;
+  height: 1200px;
+  width: 100vh;
+  /* Qora yarim shaffof qatlam + rasm */
+  background-image: url("Main page.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
-  margin: 0;
 }
-body h1 {
+
+h1 {
   color: white;
   font-size: 2rem;
 }
